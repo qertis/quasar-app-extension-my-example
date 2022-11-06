@@ -1,0 +1,19 @@
+{
+  "name": "quasar-app-extension-my-example",
+  "version": "0.0.1",
+  "description": "A Quasar App Extension",
+  "author": "Denis Baskovsky <baskovsky@ya.ru>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "quasar-ui-my-example": "^0.0.1"
+  },
+  "engines": {
+    "node": ">= 14.x",
+    "npm": ">= 7.x"
+  }
+}
